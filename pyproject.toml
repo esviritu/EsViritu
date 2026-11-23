@@ -44,5 +44,5 @@ esv_create_taxonomy = "EsViritu.esv_create_taxonomy:main"
 esv_combine_tax = "EsViritu.esv_combine_tax:main"
 
 [project.urls]
-"Homepage" = "https://github.com/cmmr/EsViritu"
-"Bug Tracker" = "https://github.com/cmmr/EsViritu/issues"
+"Homepage" = "https://github.com/esviritu/EsViritu"
+"Bug Tracker" = "https://github.com/esviritu/EsViritu/issues"

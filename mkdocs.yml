@@ -1,7 +1,7 @@
 site_name: EsViritu
 site_description: "Read mapping pipeline for detection and measurement of human and animal virus pathogens using sequencing reads from metagenomic environmental or clinical samples."
-repo_url: https://github.com/cmmr/EsViritu
-repo_name: cmmr/EsViritu
+repo_url: https://github.com/esviritu/EsViritu
+repo_name: esviritu/EsViritu
 edit_uri: 'blob/main/docs/'
 
 docs_dir: docs

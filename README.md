@@ -186,7 +186,7 @@ Thank you to past and current developers!
 
 [Making a custom database for EsViritu](https://esviritu.readthedocs.io/en/latest/custom-database/)
 
-Checking EsViritu virus detections against large NCBI databases with [postviritu](https://github.com/mtisza1/postviritu)
+Checking EsViritu virus detections against large NCBI databases with [postviritu](https://github.com/esviritu/postviritu)
 
 # Citation
 

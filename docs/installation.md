@@ -64,7 +64,7 @@ DB files should be in `v3.2.4/`
     
     1)  Clone repo
     
-    `git clone https://github.com/cmmr/EsViritu.git`
+    `git clone https://github.com/esviritu/EsViritu.git`
     
     2)  Go to `EsViritu` directory.
     
