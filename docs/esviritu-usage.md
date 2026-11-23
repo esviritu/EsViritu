@@ -75,4 +75,4 @@ This command will summarize information about all the samples in the given direc
 
 ## Postprocessing
 
-Check EsViritu virus detections against large NCBI databases with [postviritu](https://github.com/mtisza1/postviritu)
+Check EsViritu virus detections against large NCBI databases with [postviritu](https://github.com/esviritu/postviritu)

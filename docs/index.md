@@ -2,8 +2,8 @@
 
 EsViritu is a read mapping pipeline for detection and measurement of human and animal virus pathogens using sequencing reads from metagenomic environmental or clinical samples.
 
-- Source code: [https://github.com/cmmr/EsViritu](https://github.com/cmmr/EsViritu)
-- Project README: [https://github.com/cmmr/EsViritu/blob/main/README.md](https://github.com/cmmr/EsViritu/blob/main/README.md)
+- Source code: [https://github.com/esviritu/EsViritu](https://github.com/esviritu/EsViritu)
+- Project README: [https://github.com/esviritu/EsViritu/blob/main/README.md](https://github.com/esviritu/EsViritu/blob/main/README.md)
 
 ## Why use `EsViritu`?
 This approach is sensitive, specific, and ideal for exploring virus presence/absence/diversity within and between metagenomic or clinical samples. Interactive reports make it easy to see the breadth of read coverage for each detected virus. This tool should reliably detect virus reads with 80% ANI or greater to reference genomes.
