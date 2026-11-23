@@ -177,6 +177,11 @@ This command will summarize information about all the samples in the given direc
  - `myproject_EsViritu1.tax_profile.tsv`
  - `myproject_EsViritu1.batch_detected_viruses.html` (reactable)
 
+# Gratitude
+From April 2023 to November 2026, the `EsViritu` repository was lovingly maintained by scientists at Baylor College of Medicine's [Center for Metagenomics and Microbiome Research](https://github.com/cmmr). Community involvement has increased, and the lead developer (Mike Tisza) has moved to SecureBio. To facilitate continued development by Mike and others in the community, we have moved `EsViritu` to its own [GitHub Org](https://github.com/esviritu) alongside related repos.
+
+Thank you to past and current developers!
+
 # Other Resources
 
 [Making a custom database for EsViritu](https://esviritu.readthedocs.io/en/latest/custom-database/)
